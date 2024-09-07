@@ -35,7 +35,7 @@
     <!------------ Languages ----------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,Yaml,shellscript" />
+        <img src="https://skillicons.dev/icons?i=python,Java" />
       </a>
         <!---------------------- DevOps Tools ---------------------->
     <p >
