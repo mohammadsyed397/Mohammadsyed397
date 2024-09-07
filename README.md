@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammadsyed97sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadsyed97sd" height="30" width="40" /></a>
-<a href="https://instagram.com/___mohammad___syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mohammad___syed" height="30" width="40" /></a>
+<a href="https://instagram.com/__mohammad__syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mohammad___syed" height="30" width="40" /></a>
 </p>
 
 ## My Tech Stack
