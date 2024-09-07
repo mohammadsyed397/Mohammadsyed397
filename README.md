@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Mohammad Syed</h1>
 <img align="right" alt="Coding" width="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=4FAE4EEE&width=435&lines=Aspiring+DevOps+Enginner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=4FAE4EEE&width=435&lines=Aspiring+DevOps+Engineer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsyed397&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsyed397" /> </p>
 
