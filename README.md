@@ -1,7 +1,9 @@
-<h1 align="left">Hi 👋, I'm Mohammad Syed</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
+<div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=4FAE4EEE&width=435&lines=A+passionate+DevOps+Enginner" alt="Typing SVG" /></a>
+<h1 align="left">Hi 👋, I'm Mohammad Syed</h1>
+<img align="right" alt="Coding" width="200" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=4FAE4EEE&width=435&lines=Aspiring+DevOps+Enginner" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsyed397&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsyed397" /> </p>
 
@@ -38,7 +40,7 @@
         <!---------------------- DevOps Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=terraform,prometheus,kubernetes,jenkins,grafana,git,github,docker,bitbucket,ansible,argocd,helmcharts" />
+        <img src="https://skillicons.dev/icons?i=terraform,prometheus,kubernetes,jenkins,grafana,git,github,docker,bitbucket,ansible" />
       </a>
     </p>
   </div>
